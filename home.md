@@ -1,4 +1,5 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: Mega Casting -->
+<!-- SUBTITLE: Présentation du projet -->
 
-# Header
+# Mega Casting
+
